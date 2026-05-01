@@ -46,6 +46,14 @@ The objective is to support **cost reduction and fleet optimization decisions** 
 
 ---
 
+## 📊 Dashboard Preview
+
+The final deliverable is an interactive Power BI dashboard designed for operational fleet monitoring.
+
+![Fleet Dashboard](docs/Fleet Analytics Dashboard.png)
+
+---
+
 ## 🧭 Business Objectives
 
 In a context of rising logistics and fuel costs, the company aims to:
