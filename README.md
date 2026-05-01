@@ -169,9 +169,9 @@ A single-page dashboard providing a **global view of fleet performance and costs
 
 | # | Insight | Strategic Implication |
 |---|---------|----------------------|
-| 1 | **Trucks** drive most of the operational cost | Reassess truck composition & alternatives |
-| 2 | Costs concentrated in **Lyon & Paris** | Investigate regional cost patterns |
-| 3 | Fleet availability around **80%** | Improve maintenance scheduling |
+| 1 | **Trucks** are the dominant cost driver, with an average cost **~83% higher than cars** and **~47% higher than vans**, highlighting a strong cost disparity by vehicle type. | Reassess truck composition & alternatives |
+| 2 | **Lyon and Paris** together account for **~37% of total operational costs**, making them the primary geographic cost centers despite an overall balanced distribution across regions. | Investigate regional cost patterns |
+| 3 | Fleet availability is around **80%**, indicating potential inefficiencies in maintenance or vehicle downtime management. | Improve maintenance scheduling |
 | 4 | A small subset of vehicles = **disproportionate costs** | Prioritize their replacement or optimization |
 
 ---
