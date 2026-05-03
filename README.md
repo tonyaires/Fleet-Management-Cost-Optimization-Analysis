@@ -50,7 +50,7 @@ The objective is to support **cost reduction and fleet optimization decisions** 
 
 The final deliverable is an interactive Power BI dashboard designed for operational fleet monitoring.
 
-![Fleet Dashboard](docs/fleet_analytics_dashboard.png)
+![Fleet Dashboard](docs/preview-dashboard.png)
 
 ---
 
