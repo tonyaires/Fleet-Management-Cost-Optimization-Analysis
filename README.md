@@ -100,16 +100,10 @@ flowchart LR
 ```
 fleet-analytics/
 │
-├── 📁 data/                  # Raw and cleaned fleet datasets
-├── 📁 python/                # Notebooks (cleaning, EDA)
-│   └── fleet_eda.ipynb
-├── 📁 sql/                   # KPI queries
-│   ├── cost_by_type.sql
-│   ├── availability_rate.sql
-│   └── top_expensive_vehicles.sql
-├── 📁 powerbi/               # Power BI .pbix file
-│   └── fleet_dashboard.pbix
-├── 📁 docs/                  # Screenshots & documentation
+├── 📁 Fleet_Analytics.ipynb          # Data cleaning & exploratory data analysis (Python)
+├── 📁 Fleet_Data_Queries.sql         # SQL analysis (cost by vehicle type, availability rate, top expensive vehicles)
+├── 📁 Fleet_Dashboard.pdf            # Power BI dashboard export
+├── 📁 docs/                          # Screenshots & documentation
 └── README.md
 ```
 
