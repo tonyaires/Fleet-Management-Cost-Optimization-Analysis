@@ -100,7 +100,7 @@ flowchart LR
 ```
 fleet-analytics/
 │
-├── 📁 Fleet_Analytics.ipynb          # Data cleaning & exploratory data analysis (Python)
+├── 📁 Fleet_Analytics.ipynb          # Data cleaning & exploratory data analysis 
 ├── 📁 Fleet_Data_Queries.sql         # SQL analysis (cost by vehicle type, availability rate, top expensive vehicles)
 ├── 📁 Fleet_Dashboard.pdf            # Power BI dashboard export
 ├── 📁 docs/                          # Screenshots & documentation
